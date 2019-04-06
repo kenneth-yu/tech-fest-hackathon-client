@@ -7,6 +7,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+.pseudolink {
+   color:blue;
+   text-decoration:underline;
+   cursor:pointer;
+}
 
 .App-header {
   background-color: #282c34;
